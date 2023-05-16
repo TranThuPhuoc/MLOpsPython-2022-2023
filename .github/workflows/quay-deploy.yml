@@ -23,4 +23,4 @@ jobs:
         with:
           context: .
           push: true
-          tags:  quay.io/gthomas59800/mlops_python_2023:1.0.0,quay.io/gthomas59800/mlops_python_2023:latest
+          tags:  quay.io/tphuoc/mlops_python_2023:1.0.0,quay.io/tphuoc/mlops_python_2023:latest
